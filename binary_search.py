@@ -7,6 +7,7 @@ EXAMPLE:
 nums = [1,2,3,4,5,6], target = 3
 answer = 2 
 (3 is at the index 2 in the list)
+lalala
 '''
 
 nums = [1, 2, 3, 4, 5, 6]
